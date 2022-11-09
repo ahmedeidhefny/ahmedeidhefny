@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **Mobile Apps Development**
 
-- 🌱 I’m currently learning **Clean Architecture Flutter**
+- 🌱 I’m currently learning **MVI, KotlinFlow, FlowState, Jetback Compose**
 
 - 💬 Ask me about **Android, Flutter, OOP, Java, Kotlin, Dart.**
 
