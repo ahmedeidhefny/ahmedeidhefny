@@ -32,7 +32,6 @@
 | Name | Description |
 | --- | --- |
 | [xml-about-me](https://github.com/ahmedeidhefny/xml-about-me) | Clean MVVM has become one of the standard architectures around which large Android projects are developed  |
-| [Weather App](https://github.com/ahmedeidhefny/Weather-demo) | a simple weather app with kotlin mvvm, hilts, coroutine, retrofit2, coil  |
 | [MVVM-Coroutines-Dagger](https://github.com/ahmedeidhefny/Kotlin-MVVM-Dagger2-Room-Coroutines-Retrofit) | Kotlin, MVVM, Dagger2, Room, Coroutines, Retrofit  |
 | [Sunnah](https://github.com/ahmedeidhefny/Sunnah) | MVVM, Dagger2, Room, Coroutines, Retrofit   |
 | [HisnAlmuslim](https://github.com/ahmedeidhefny/HisnAlmuslim) | MVVM, Dagger2, Room, Coroutines, Retrofit   |
