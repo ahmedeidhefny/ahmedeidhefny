@@ -24,6 +24,7 @@
 
 | Repo | Description |
 | --- | --- |
+| [Posts App](https://github.com/ahmedeidhefny/posts-clean-architecture-master) | Clean MVVM & BLOC has become one of the standard clean architectures |
 | [Notes App](https://github.com/ahmedeidhefny/notes_sqflite_flutter) | Sqflite database and Getx State Management |
 | [News App](https://github.com/ahmedeidhefny/news_flutter) | APIs, Web Service, networking, and Getx State Management |
 
