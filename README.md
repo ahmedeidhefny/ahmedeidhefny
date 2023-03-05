@@ -36,10 +36,6 @@
 | [MVVM-Coroutines-Dagger](https://github.com/ahmedeidhefny/Kotlin-MVVM-Dagger2-Room-Coroutines-Retrofit) | Kotlin, MVVM, Dagger2, Room, Coroutines, Retrofit  |
 | [Sunnah](https://github.com/ahmedeidhefny/Sunnah) | MVVM, Dagger2, Room, Coroutines, Retrofit   |
 | [HisnAlmuslim](https://github.com/ahmedeidhefny/HisnAlmuslim) | MVVM, Dagger2, Room, Coroutines, Retrofit   |
-| [VideoCall](https://github.com/ahmedeidhefny/VideoCall) | simple video call with Jsimeet  |
-| [Note App](https://github.com/ahmedeidhefny/Notes) | simple notes with local database  | 
-| [Movies App](https://github.com/ahmedeidhefny/popularMoviesApp) | simple Movies app with APIs, Web Service, networking  |
-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
